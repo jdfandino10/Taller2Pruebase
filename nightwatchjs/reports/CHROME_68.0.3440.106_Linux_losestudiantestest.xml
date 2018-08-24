@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="losestudiantestest"
+    errors="0" failures="0" hostname="" id="" package="losestudiantestest" skipped="0"
+    tests="3" time="39.81" timestamp="Fri, 24 Aug 2018 00:26:04 GMT">
+  
+    <testcase name="Los estudiantes login falied" classname="losestudiantestest" time="13.45" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Navigate to professor page" classname="losestudiantestest" time="14.84" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filters coments by subject" classname="losestudiantestest" time="11.53" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
