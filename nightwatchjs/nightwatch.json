@@ -29,18 +29,17 @@
         "path" : ""
       },
       "desiredCapabilities": {
-        "browserName": "chrome",
-        "marionette": true
+          "browserName": "chrome",
+          "marionette": true
       }
+
     },
 
     "chrome" : {
       "desiredCapabilities": {
         "browserName": "chrome",
         "chromeOptions": {
-            "args": [
-                "window-size=1280,800"
-            ]
+            "args": ["window-size=1280,800"]
         }
       }
     }
